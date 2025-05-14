@@ -1,0 +1,32 @@
+* 16715ed Agregando dos Parrafos
+*   d184639 Resolviendo conflicto
+|\  
+| *   c264999 resolviendo conflicto
+| |\  
+* | \   9f7af3e Agregando estaciones con fecha correcta
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * ad5977b Agregando estaciones del año
+* | aa0a34f Agregando estaciones con fecha de inicio
+|/  
+*   c2ed532 Merge branch 'html'
+|\  
+| * 218bc8a Agregando lista
+* | b036cec resolviendo conflicto merge main html en index.html
+|\| 
+| * ad4a1a9 Agregando index.js a index.html
+| * 11fb357 Agregando archivos
+* 1032225 Agregando la hoja de estilos a index.html
+*   6a07bdf Merge branch 'JS'
+|\  
+| * 061d62c Agregando index.js
+* | 76fca6e Agregando estilos .css
+* | 39f4a0d Creando index.html
+|/  
+* a69d00b Ignorando archivos .exe
+* 80881ea Create LICENSE
+* 41c4d1d Adding more content to readme
+* 1d69ce4 Adding first content to readme
+* c4c38c4 First commit
